@@ -15,4 +15,4 @@
 
 # Skills
 
-![HTML](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,gulp,jquery,linux,md,github,tailwind,vite,vscode,figma&perline=5)
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,gulp,jquery,linux,md,github,gitlab,git,tailwind,vite,figma&perline=8)
