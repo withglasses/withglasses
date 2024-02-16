@@ -8,14 +8,23 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░
 ```
 
-# My name is Mirzadavlat Front-End developer
-
-## About
+# Mirzadavlat Front-End developer
 
 ```javascript
+// About Me
+
 const life = {
 	age: 18,
 	country: 'Uzbekistan',
 	region: 'Tashkent, Shaykhontohur',
+	skills: 'HTML5, CSS3, Javascript, SCSS-SASS, Bootstrap, JQuery, TailwindCSS,
 }
+```
+
+```bash
+# HTML											 # CSS
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 90%		 ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 65%
+
+#JavaScript									 # SCSS-SASS
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%		 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%
 ```
