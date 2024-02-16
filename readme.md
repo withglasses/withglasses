@@ -12,8 +12,8 @@
 
 ## About
 
-Currently, I reside in Tashkent, Shaykhontohur, and go by **Mirzadavlat**.
-I attend Alfraganus University (AFU) as an 18-year-old student currently.
+> Currently, I reside in Tashkent, Shaykhontohur, and go by **Mirzadavlat**.
+> I attend Alfraganus University (AFU) as an 18-year-old student currently.
 
 ```bash
 # HTML
