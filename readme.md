@@ -7,3 +7,15 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░
 ```
+
+# My name is Mirzadavlat Front-End developer
+
+## About
+
+```json
+const life = {
+	age: 18,
+	country: 'Uzbekistan',
+	region: 'Tashkent, Shaykhontohur',
+}
+```
