@@ -12,7 +12,7 @@
 
 ## About
 
-```json
+```javascript
 const life = {
 	age: 18,
 	country: 'Uzbekistan',
