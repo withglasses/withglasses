@@ -8,18 +8,12 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░
 ```
 
-# Mirzadavlat Front-End developer
+# Front-End developer
 
-```javascript
-// About Me
+## About
 
-const life = {
-	age: 18,
-	country: 'Uzbekistan',
-	region: 'Tashkent, Shaykhontohur',
-	skills: 'HTML5, CSS3, Javascript, SCSS-SASS, Bootstrap, JQuery, TailwindCSS,
-}
-```
+Currently, I reside in Tashkent, Shaykhontohur, and go by **Mirzadavlat**.
+I attend Alfraganus University (AFU) as an 18-year-old student currently.
 
 ```bash
 # HTML
@@ -28,13 +22,13 @@ const life = {
 
 # CSS
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 65%
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%
 
-#JavaScript
+# JavaScript
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%
 
 # SCSS-SASS
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%
 ```
