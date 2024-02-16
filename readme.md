@@ -10,25 +10,9 @@
 
 # Front-End developer
 
-## About
-
 > Currently, I reside in Tashkent, Shaykhontohur, and go by **Mirzadavlat**.
 > I attend Alfraganus University (AFU) as an 18-year-old student currently.
 
-```bash
-# HTML
+# Skills
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 90%
-
-# CSS
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%
-
-# JavaScript
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%
-
-# SCSS-SASS
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%
-```
+![HTML](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,gulp,jquery,linux,md,github,tailwind,vite,vscode,figma&perline=5)
