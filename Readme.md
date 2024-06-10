@@ -5,13 +5,9 @@ Hi! My name is Mirzadavlat, and I am a Frontend Developer with over 1 year of ex
 ## Skills
 
 - **JavaScript** - 75%
-  [###################-------] 75%
 - **HTML** - 90%
-  [#########################-] 90%
 - **SCSS/CSS** - 70%
-  [#################---------] 70%
 - **React.js** - 65%
-  [###############-----------] 65%
 
 ### Other Skills
 
